@@ -96,6 +96,4 @@ Retail-Inventory-Optimization/
 By applying data analytics to sales and inventory data, this project helps the business make **data-driven decisions** to improve **profitability**, **reduce costs**, and **optimize operations**.
 
 
----
 
-> ⭐ *If you found this helpful, feel free to star this repo!*
