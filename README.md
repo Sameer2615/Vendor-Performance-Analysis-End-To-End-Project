@@ -95,14 +95,7 @@ Retail-Inventory-Optimization/
 
 By applying data analytics to sales and inventory data, this project helps the business make **data-driven decisions** to improve **profitability**, **reduce costs**, and **optimize operations**.
 
----
 
-## 📬 Contact
-
-For questions, suggestions, or collaboration:  
-📧 **prathmesh@email.com**  
-🔗 [LinkedIn](https://www.linkedin.com/in/PrathmeshKapde)  
-🐙 [GitHub](https://github.com/prathmkapde17)
 ---
 
 > ⭐ *If you found this helpful, feel free to star this repo!*
